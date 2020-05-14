@@ -1,0 +1,22 @@
+* {
+    margin: 10px;
+}
+#foto {
+    width: 100px;
+    height: auto;
+    position: float;
+    float:right;
+    
+}
+.sinpunto {
+    list-style-type: none;
+}
+h2 {
+    background-color: lightblue;
+}
+
+li {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 2.5px;
+}
